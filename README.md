@@ -5,49 +5,45 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" alt="Python Logo"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pyside/pyside-original.svg" width="60" alt="PySide6 Logo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="60" alt="PySide6 Logo"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gold_medal_icon.svg/512px-Gold_medal_icon.svg.png" width="38" alt="#1 Repository Icon"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-success" alt="Status Badge"/>
-  <img src="https://img.shields.io/badge/build-stable-blue" alt="Build Badge"/>
-  <img src="https://img.shields.io/badge/platform-windows-0A66C2" alt="Platform Badge"/>
-  <img src="https://img.shields.io/badge/license-proprietary-red" alt="License Badge"/>
-  <img src="https://img.shields.io/badge/repository_rank-%231-green" alt="Top Repository Badge"/>
-</p>
+<p align="center"><b>#1 Repository</b></p>
 
-<h1 align="center">Arsen Clicker & Macro - v2.0.0r</h1>
+<h1 align="center">Arsen Autoclicker & Macro Manager</h1>
 <p align="center"><b>Efficient automation designed for precision and clarity.</b></p>
 
 ---
 
 ## Overview
-Arsen is a Windows automation solution built with **Python** and **PySide6**, offering a streamlined interface for creating, managing, and executing mouse and keyboard macros.  
-Its focus is reliability, clean design, and a frictionless user experience suitable for professionals and productivity-driven users.
+Arsen is a Windows automation utility built using **Python** and **PySide6**, providing a refined interface for creating, managing, and executing mouse and keyboard macros.  
+It focuses on stability, accuracy, and a modern UI/UX experience suitable for developers, professionals, and productivity-oriented users.
 
 ---
 
 ## Features
-- **High-Precision Automation** — Consistent macro execution for mouse and keyboard actions  
-- **Profile Management** — Maintain separate configurations for different workflows  
-- **Modern UI/UX** — Clean, minimal, and accessible interface  
-- **Portable Build** — Launch `Arsen.exe` directly; no installation required  
-- **Offline and Secure** — Operates without network usage; no data ever leaves your system
+- **High-Precision Automation** — Consistent and responsive macro execution  
+- **Profile Management** — Create and switch between multiple macro setups  
+- **Modern Interface** — Clean, minimal, and organized layout  
+- **Portable Build** — Launch `Arsen.exe` directly without installation  
+- **Offline Operation** — No online connectivity; no data is transmitted externally
 
 ---
 
 ## Quick Start
 1. Download the latest ZIP package  
-2. Extract files to any folder  
+2. Extract the contents to any directory  
 3. Run **Arsen.exe**  
-4. Create macros and assign global hotkeys
+4. Create macros and configure global hotkeys
 
 ---
 
 ## Core Tools
-- **Macro Editor** — Create, edit, and structure action sequences  
-- **Global Hotkeys** — Control and toggle macros from any application  
-- **Profile Switching** — Seamlessly swap between multiple macro sets
+- **Macro Editor** — Construct and organize action sequences  
+- **Global Hotkeys** — Trigger macros instantly from any application  
+- **Profile System** — Switch workflows within seconds
 
 ---
 
@@ -67,15 +63,15 @@ Its focus is reliability, clean design, and a frictionless user experience suita
 
 ## System Requirements
 - Windows 10 or Windows 11 (64-bit)  
-- No administrator privileges required
+- No administrative privileges required
 
 ---
 
 ## License
 **All rights reserved.**  
 Arsen is proprietary software. Redistribution, modification, or reuse of its source code or assets is prohibited.  
-Refer to the included `LICENSE` file for complete license terms.
+Refer to the included `LICENSE` file for full licensing details.
 
 ---
 
-<p align="center"><b>Arsen — Reliable automation with a refined interface.</b></p>
+<p align="center"><b>Arsen — A refined and dependable automation solution for modern workflows.</b></p>
