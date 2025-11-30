@@ -1,4 +1,4 @@
-<h2 align="center"> ⚡ Arsen Clicker & Macro - v2.0.0 </h2>
+<h2 align="center"> Arsen Clicker & Macro - v2.0.0 </h2>
 <p align="center">
   <img src="https://trendshift.io/api/badge/repositories/14726" width="260" alt="Trendshift Badge"/>
 </p>
