@@ -1,16 +1,20 @@
 <p align="center">
-  <img src="LatestArsenBanner.png" width="1000" alt="Arsen Autoclicker & Macro Banner"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" alt="Python Logo"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="60" alt="Qt / PySide6 Logo"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" alt="Python Logo"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="60" alt="PySide6 Logo"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gold_medal_icon.svg/512px-Gold_medal_icon.svg.png" width="38" alt="#1 Repository Icon"/>
+  <img src="https://img.shields.io/badge/GitHub%20Trending-%231%20Repository%20Of%20The%20Day-blueviolet?style=for-the-badge" alt="#1 Repo Badge"/>
 </p>
 
-<p align="center"><b>#1 Repository</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/build-stable-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/platform-windows-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/license-proprietary-red?style=flat-square"/>
+</p>
+
 
 <h1 align="center">Arsen Autoclicker & Macro Manager</h1>
 <p align="center"><b>Efficient automation designed for precision and clarity.</b></p>
