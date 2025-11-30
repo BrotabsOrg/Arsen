@@ -16,7 +16,7 @@
 </p>
 
 
-<h1 align="center">Arsen Autoclicker & Macro Manager</h1>
+<h1 align="center">Arsen Clicker & Macro - v2.0.0</h1>
 <p align="center"><b>Efficient automation designed for precision and clarity.</b></p>
 
 ---
