@@ -9,11 +9,13 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/version-v2.0.0-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/build-stable-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/platform-windows-lightgrey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/license-proprietary-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/license-Creative%20Commons-orange?style=flat-square"/>
 </p>
+
 
 
 <h1 align="center">Arsen Clicker & Macro - v2.0.0</h1>
