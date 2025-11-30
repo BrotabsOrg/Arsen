@@ -61,7 +61,7 @@ A modern autoclicker + macro application built with precision, performance, and 
 
 ## 📦 Download
 
-Release page: **(add your link here)**  
+Release page: https://github.com/BrotabsOrg/Arsen/releases
 Portable build.
 
 ---
