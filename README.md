@@ -1,4 +1,4 @@
-<h2 align="center"> Arsen Clicker & Macro - v2.0.0 </h2>
+<h2 align="center"> Arsen Clicker & Macro - v2.2.0 </h2>
 <p align="center">
   <img src="https://trendshift.io/api/badge/repositories/14726" width="260" alt="Trendshift Badge"/>
 </p>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v2.0.0-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/version-v2.2.0-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/build-stable-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/platform-windows-lightgrey?style=flat-square"/>
@@ -39,22 +39,22 @@ A modern autoclicker + macro application built with precision, performance, and 
 ### Interface Preview
 
 <p align="center">
-  <img src="Clicker.png" width="48%" />
-  <img src="Targeting.png" width="48%" />
+  <img src="Clicker.png" width="100%" />
+  <img src="Targeting.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="Overlays.png" width="48%" />
-  <img src="Macros.png" width="48%" />
+  <img src="Overlays.png" width="100%" />
+  <img src="Macros.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="Logs.png" width="48%" />
-  <img src="Profiles.png" width="48%" />
+  <img src="Logs.png" width="100%" />
+  <img src="Profiles.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="Settings.png" width="48%" />
+  <img src="Settings.png" width="100%" />
 </p>
 
 ---
