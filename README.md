@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/license-Creative%20Commons-orange?style=flat-square"/>
 </p>
 
-Arsen v2.0.0 is finally here — fully redesigned, smoother, cleaner, faster, and more powerful.  
+Arsen v2.2.0 is finally here — fully redesigned, smoother, cleaner, faster, and more powerful.  
 A modern autoclicker + macro application built with precision, performance, and a clean UI.
 
 ---
