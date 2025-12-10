@@ -39,22 +39,22 @@ A modern autoclicker + macro application built with precision, performance, and 
 ### Interface Preview
 
 <p align="center">
-  <img src="Clicker.png" width="100%" />
-  <img src="Targeting.png" width="100%" />
+  <img src="Clicker.png" width="48%" />
+  <img src="Targeting.png" width="48%" />
 </p>
 
 <p align="center">
-  <img src="Overlays.png" width="100%" />
-  <img src="Macros.png" width="100%" />
+  <img src="Overlays.png" width="48%" />
+  <img src="Macros.png" width="48%" />
 </p>
 
 <p align="center">
-  <img src="Logs.png" width="100%" />
-  <img src="Profiles.png" width="100%" />
+  <img src="Logs.png" width="48%" />
+  <img src="Profiles.png" width="48%" />
 </p>
 
 <p align="center">
-  <img src="Settings.png" width="100%" />
+  <img src="Settings.png" width="48%" />
 </p>
 
 ---
