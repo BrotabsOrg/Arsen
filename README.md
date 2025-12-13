@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/build-stable-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/platform-windows-lightgrey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/license-Creative%20Commons-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/license-PROPRIETARY%20 LICENSE-orange?style=flat-square"/>
 </p>
 
 Arsen v2.2.0 is finally here — fully redesigned, smoother, cleaner, faster, and more powerful.  
@@ -86,6 +86,17 @@ For issues, suggestions, or help, reach out through:
 
 ## ⚖️ License
 
-Creative Commons License.
+**PROPRIETARY LICENSE — ALL RIGHTS RESERVED**
+
+Copyright © 2025 **Brotabs**
+
+This software and its source code are protected by copyright law.
+No permission is granted to copy, modify, redistribute, repost,
+mirror, or publish this project or any part of it.
+
+See the `LICENSE` file for full terms.
 
 ---
+
+© 2025 Brotabs. Arsen Clicker & Macro is an official project.
+Unauthorized copies are not affiliated and will be reported.
